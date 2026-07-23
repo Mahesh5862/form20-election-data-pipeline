@@ -1,0 +1,20 @@
+{
+  "constituency_number": 115,
+  "constituency_name": "Wyra",
+  "total_electors": null,
+  "_note": "Total electors field was blank on the source PDF cover page - fill in before running extraction.",
+  "candidates": [
+    "BHUKYA VEERABHADRAM",
+    "MADANLAL BANOTH",
+    "RAMDAS MALOTH",
+    "RAMBABU BHANOTHU",
+    "GUGULOTH BHAVSINGH",
+    "NOONAVATH VEERU",
+    "BANOTH DURGA PRASAD",
+    "MALOTH SYAMLAL NAYAK",
+    "VENKATESWARLU DANASARI",
+    "SAMPATH NAYAK",
+    "GUGULOTH THAVURYA",
+    "RAMULU VARSA"
+  ]
+}

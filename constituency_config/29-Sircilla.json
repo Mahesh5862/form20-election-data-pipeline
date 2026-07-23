@@ -1,0 +1,29 @@
+{
+  "constituency_number": 29,
+  "constituency_name": "Sircilla",
+  "total_electors": null,
+  "_note": "Total electors not visible in the source PDF screenshot (this page uses a PS Name column layout, different from most others) - fill in before running extraction.",
+  "candidates": [
+    "KALVAKUNTLA TARAKA RAMA RAO (KCR)",
+    "PITTALA BHOOMESH",
+    "K.K. MAHENDER REDDY",
+    "RANI RUDRAMA REDDY",
+    "KESUGANI PARAMESHWARI",
+    "KONDA RAVI KANTH",
+    "DOSALA CHANDRAM",
+    "D.DEVAIAH",
+    "PATHIPAKA SURESH",
+    "RAGULA RAMULU",
+    "REDDYMALLA SRINIVAS",
+    "LAGISHETTY SRINIVAS",
+    "ANNARAM SAIKUMAR",
+    "KRISHNA DONIKEN",
+    "KODURI BALA LINGAM",
+    "GOUTE GANESH",
+    "J.MADHU",
+    "THATIPAMULA SRINIVAS",
+    "NAKKA HAREESH",
+    "BUSAPURAM PRAVEEN",
+    "RIKKAMALLE MANOJ KUMAR"
+  ]
+}

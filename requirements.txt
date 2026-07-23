@@ -1,0 +1,8 @@
+python-dotenv
+pdf2image
+pillow
+opencv-python
+numpy
+google-generativeai
+openpyxl
+pytesseract

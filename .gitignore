@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+data/
+logs/
+input_pdfs/
+scan_quality_report.json
+
+*.xlsx

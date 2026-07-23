@@ -1,0 +1,30 @@
+{
+  "constituency_number": 23,
+  "constituency_name": "Ramagundam",
+  "total_electors": null,
+  "_note": "Total electors not visible in the source PDF screenshot - fill in before running extraction.",
+  "candidates": [
+    "AMBATI NARESH YADAV",
+    "KANDULA SANDYA RANI",
+    "KORUKANTI CHANDER PATEL",
+    "MAKKAN SINGH RAJ THAKUR",
+    "GORRE RAMESH",
+    "THAMMERA MANMOHAN RAO",
+    "PARUVELLI JEEVAN RAO",
+    "PERUMANDLA WEDHADHUSHAN",
+    "RAJKUMAR PULIPAKA",
+    "VEMULA ASHOK",
+    "SHEELAM SRINIVAS",
+    "SAMALA ARAVIND",
+    "KAMPALLI RAGHU BABU",
+    "GUDIMALA KIRTHI KANTH",
+    "GAJJELLI VENKATESHWARLU",
+    "NEERATI SHANKAR RAMU",
+    "PEDDAPALLI SANDEEP",
+    "BODAS CHANDRA SEKHAR",
+    "MANCHIKATLA DAYAKAR",
+    "MOHAMMED SHAKEER BABA",
+    "LINGALA SHANKAR",
+    "SOMARAPU SATYANARAYANA"
+  ]
+}

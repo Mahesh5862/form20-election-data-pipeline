@@ -1,0 +1,16 @@
+{
+  "constituency_number": 19,
+  "constituency_name": "Balkonda",
+  "total_electors": null,
+  "_note": "Total electors field was blank on the source PDF screenshot - fill in from actual PDF before running extraction.",
+  "candidates": [
+    "ANNAPURNA DEVI ALETI",
+    "PALLI KONDA NARSAIAH",
+    "PRASHANTH REDDY VEMULA",
+    "SUNIL KUMAR MUTHYALA",
+    "ABBA GONI ASHOK GOUD",
+    "GADDE SRINIVAS",
+    "CHETPALLY SHEKAR",
+    "BHOJANNA MANGLARAM"
+  ]
+}
